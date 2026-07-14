@@ -5,9 +5,9 @@
 
 Official MATLAB implementation of the paper:
 
-> **Iterative Dispersive Vold-Kalman Filter with Local Adaptive Bandwidth for Dispersive Signal Decomposition in Structural Health Monitoring**
+> **[Iterative Dispersive Vold-Kalman Filter with Local Adaptive Bandwidth for Dispersive Signal Decomposition in Structural Health Monitoring](https://doi.org/10.1109/TII.2026.3702939)**
 >
-> *IEEE Transactions on Industrial Informatics*, Accepted June 2026.
+> *IEEE Transactions on Industrial Informatics*, Early Accessed July 14, 2026.
 
 ## Abstract
 
@@ -126,12 +126,12 @@ The paper is accepted and currently in early access. BibTeX will be updated upon
              for Dispersive Signal Decomposition in Structural Health Monitoring},
   journal = {IEEE Transactions on Industrial Informatics},
   year    = {2026},
-  note    = {Early Access, Paper No. TII-26-2374},
-  doi     = {to be updated upon publication}
+  publisher={IEEE}
 }
 
 @article{jiang2024iterative,
-  title={An iterative adaptive Vold--Kalman filter for nonstationary signal decomposition in mechatronic transmission fault diagnosis under variable speed conditions},
+  title={An iterative adaptive Vold--Kalman filter for nonstationary signal decomposition
+         in mechatronic transmission fault diagnosis under variable speed conditions},
   author={Jiang, Yuan and Chen, Yuejian and Wang, Pingfeng},
   journal={IEEE Transactions on Industrial Informatics},
   volume={20},
@@ -142,7 +142,8 @@ The paper is accepted and currently in early access. BibTeX will be updated upon
 }
 
 @article{jiang2022iterative,
-  title={An iterative frequency-domain envelope-tracking filter for dispersive signal decomposition in structural health monitoring},
+  title={An iterative frequency-domain envelope-tracking filter
+         for dispersive signal decomposition in structural health monitoring},
   author={Jiang, Yuan and Niu, Gang},
   journal={Mechanical Systems and Signal Processing},
   volume={179},
