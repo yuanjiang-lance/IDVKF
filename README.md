@@ -1,6 +1,5 @@
 # Iterative Dispersive Vold-Kalman Filter (IDVKF)
 
-[![License: AGPL-3.0])
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2019a%2B-blue.svg)](https://www.mathworks.com/)
 
 Official MATLAB implementation of the paper:
