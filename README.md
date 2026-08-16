@@ -154,7 +154,7 @@ The paper is accepted and currently in early access. BibTeX will be updated upon
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the AGPL-3.0 license.
 
 ## Contact
 
